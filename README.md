@@ -23,23 +23,23 @@ User input–driven job recommendations
 ---
 # Approach & Workflow
 
-Dataset Collection
-Job descriptions dataset from Kaggle
-Data Preprocessing
-Lowercasing text
-Removing punctuation & special characters
-Handling missing values
-Exploratory Data Analysis (EDA)
-Top job roles
-Job location distribution
-Company frequency analysis
-Feature Engineering
-TF-IDF vectorization of job descriptions
-Modeling
-Cosine similarity to measure relevance
-Recommendation Engine
-Takes user skills as input
-Returns top-N matching job roles
+Dataset Collection--
+Job descriptions dataset from Kaggle--
+Data Preprocessing--
+Lowercasing text--
+Removing punctuation & special characters--
+Handling missing values--
+Exploratory Data Analysis (EDA)--
+Top job roles--
+Job location distribution--
+Company frequency analysis--
+Feature Engineering--
+TF-IDF vectorization of job descriptions--
+Modeling--
+Cosine similarity to measure relevance--
+Recommendation Engine--
+Takes user skills as input--
+Returns top-N matching job roles--
 ---
 # Dataset
 
